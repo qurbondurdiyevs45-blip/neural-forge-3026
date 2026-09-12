@@ -1,0 +1,15 @@
+{
+  "name": "neural-forge-3026",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9992,
+    "createdAt": "2026-09-12T12:38:01.876Z"
+  }
+}
